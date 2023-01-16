@@ -1,0 +1,153 @@
+
+
+.mypic{
+    background-image: url(moddy.jpg);
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: inherit;
+    position: relative;
+    background-size: cover;
+    height: 100%;
+
+    
+}
+
+.firstline{
+    
+    background-color: #00de01;
+    width: 30px;
+    height: 20px;
+    
+}
+.prenota{
+    margin: 1px;
+    border-radius: 3px;
+    border: 1px solid black;
+    background-color: white;
+
+
+}
+
+.momo{
+    position: fixed;
+    top: 50%;
+    left: 53%;
+    margin-top: -262px;
+    margin-left: -417px;
+    width: 803px;
+    height: 614px;
+    border: 2px solid #242423d6;
+    background-color: #242423d6;
+    opacity: 0.8;
+    border-radius: 20px;
+    box-shadow: ;
+}
+.logo{
+    margin-left: 293px;
+    width: 167px;
+    margin-bottom: -29px;
+}
+
+.texting{
+    margin-left:61px ;
+    margin-right: ;
+    margin-bottom: ;
+
+
+}
+.via{
+    font-weight: bolder;
+    color: lightgray;
+    top: 5px;
+}
+
+
+.stato{
+    font-weight: bolder;
+    color: lightgray;
+
+}
+
+
+.taking{
+    text-align: center;
+    font-size: 21px;
+    height: 35px;
+    color: rgb(0,221,0);
+    margin-top: 30px;
+}
+
+.termina{
+    background-color: white;
+
+}
+
+.firsthrl{
+    font-weight: bolder;
+    color: black;
+    margin-top: 10px;
+
+
+}
+.primohr{
+    border: 2px solid #00de01;
+    width: 85%;
+    height: 35px;
+    background-color: #00de01;
+    border-radius: 3px;
+    margin-left: 61px;
+    margin-top: -20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.secondohr{
+    
+
+}
+
+
+.terzzohr{
+    margin-left: 0px;
+    width: 264px;
+    height: 20px;
+    border: 2px solid #f4b453;
+
+    background-color: #f4b453;
+    border-radius: 2px;
+
+    
+
+}
+
+.quartohr{
+    width: 340px;
+    height: 20px;
+    border: 2px solid #00de01;
+    background-color: #00de01;
+    border-radius: 2px;
+    margin-left: 0px;
+
+}
+
+.quintohr{
+    margin-left: 0px;
+    width: 138px;
+    height: 20px;
+    color: rgb(0,221,0);
+    border: 2px solid #cd1e1e;
+    border-radius: 2px;
+    background-color: #c22323;
+
+}
+.gino22{
+    margin-top: 13px;
+    font-weight: bolder;
+    color: lightgray;
+    
+
+}
+
